@@ -2,8 +2,8 @@
 
 **Name:** Manuj Verma  
 **University:** South Asain University
-**GitHub Link:** [Insert Your GitHub Link]  
-**Live Demo Link:** [Insert Your GitHub Pages Link]  
+**GitHub Link:** 
+**Live Demo Link:**   
 
 ---
 
