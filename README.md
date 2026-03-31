@@ -3,7 +3,7 @@
 **Name:** Manuj Verma  
 **University:** South Asain University
 
-**GitHub Link:** 
+**GitHub Link:** https://github.com/manujvermacse-svg/Recipe-Website.git
 
 **Live Demo Link:** https://manujvermacse-svg.github.io/Recipe-Website/  
 
